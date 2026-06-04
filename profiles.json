@@ -1,0 +1,199 @@
+{
+  "name": "agent-crew",
+  "description": "A reference startup crew — three companies at three stages (5, 15, 50 people)",
+  "stages": ["seed-co", "growth-co", "scale-co"],
+  "profiles": [
+    {
+      "id": "ceo-founder",
+      "name": "Rhea Chen",
+      "role": "CEO / Founder",
+      "stage": "seed-co",
+      "department": "Executive",
+      "path": "seed-co/ceo-founder"
+    },
+    {
+      "id": "full-stack-engineer",
+      "name": "Marcus Vega",
+      "role": "Full-Stack Engineer",
+      "stage": "seed-co",
+      "department": "Engineering",
+      "path": "seed-co/full-stack-engineer"
+    },
+    {
+      "id": "growth-marketer",
+      "name": "Solange \"Sol\" Osei",
+      "role": "Growth Marketer",
+      "stage": "seed-co",
+      "department": "Marketing",
+      "path": "seed-co/growth-marketer"
+    },
+    {
+      "id": "operations-admin",
+      "name": "Jordan Walsh",
+      "role": "Operations / Admin",
+      "stage": "seed-co",
+      "department": "Operations",
+      "path": "seed-co/operations-admin"
+    },
+    {
+      "id": "customer-success-seed",
+      "name": "Priya Nair",
+      "role": "Customer Success",
+      "stage": "seed-co",
+      "department": "Customer Success",
+      "path": "seed-co/customer-success"
+    },
+    {
+      "id": "ceo-principal",
+      "name": "James Hartwell",
+      "role": "CEO / Principal",
+      "stage": "growth-co",
+      "department": "Executive",
+      "path": "growth-co/executive/ceo-principal"
+    },
+    {
+      "id": "cto",
+      "name": "Marcus Webb",
+      "role": "CTO",
+      "stage": "growth-co",
+      "department": "Executive",
+      "path": "growth-co/executive/cto"
+    },
+    {
+      "id": "product-manager",
+      "name": "Elena Torres",
+      "role": "Product Manager",
+      "stage": "growth-co",
+      "department": "Product",
+      "path": "growth-co/product/product-manager"
+    },
+    {
+      "id": "product-designer",
+      "name": "Kai Nakamura",
+      "role": "Product Designer",
+      "stage": "growth-co",
+      "department": "Product",
+      "path": "growth-co/product/product-designer"
+    },
+    {
+      "id": "software-engineer",
+      "name": "Jordan Kwon",
+      "role": "Software Engineer",
+      "stage": "growth-co",
+      "department": "Engineering",
+      "path": "growth-co/engineering/software-engineer"
+    },
+    {
+      "id": "qa-engineer",
+      "name": "Samira Patel",
+      "role": "QA Engineer",
+      "stage": "growth-co",
+      "department": "Engineering",
+      "path": "growth-co/engineering/qa-engineer"
+    },
+    {
+      "id": "devops-engineer",
+      "name": "Alex Chen",
+      "role": "DevOps Engineer",
+      "stage": "growth-co",
+      "department": "Engineering",
+      "path": "growth-co/engineering/devops-engineer"
+    },
+    {
+      "id": "content-lead",
+      "name": "Theo Andersen",
+      "role": "Content Lead",
+      "stage": "growth-co",
+      "department": "Marketing",
+      "path": "growth-co/marketing/content-lead"
+    },
+    {
+      "id": "growth-marketing-lead",
+      "name": "Maya Fernandez",
+      "role": "Growth / Marketing Lead",
+      "stage": "growth-co",
+      "department": "Marketing",
+      "path": "growth-co/marketing/growth-marketing-lead"
+    },
+    {
+      "id": "sales-lead",
+      "name": "David Okonkwo",
+      "role": "Sales Lead",
+      "stage": "growth-co",
+      "department": "Revenue",
+      "path": "growth-co/revenue/sales-lead"
+    },
+    {
+      "id": "customer-success",
+      "name": "Sarah Mitchell",
+      "role": "Customer Success",
+      "stage": "growth-co",
+      "department": "Revenue",
+      "path": "growth-co/revenue/customer-success"
+    },
+    {
+      "id": "comms-admin-manager",
+      "name": "Vera Kowalski",
+      "role": "Comms / Admin Manager",
+      "stage": "growth-co",
+      "department": "Operations",
+      "path": "growth-co/operations/comms-admin-manager"
+    },
+    {
+      "id": "finance-operations",
+      "name": "Thomas Reid",
+      "role": "Finance / Operations",
+      "stage": "growth-co",
+      "department": "Operations",
+      "path": "growth-co/operations/finance-operations"
+    },
+    {
+      "id": "coo-chief-of-staff",
+      "name": "Priya Sharma",
+      "role": "COO / Chief of Staff",
+      "stage": "scale-co",
+      "department": "Executive",
+      "path": "scale-co/executive/coo-chief-of-staff"
+    },
+    {
+      "id": "cpo",
+      "name": "Amara Obi",
+      "role": "Chief Product Officer",
+      "stage": "scale-co",
+      "department": "Product",
+      "path": "scale-co/product/cpo"
+    },
+    {
+      "id": "cmo",
+      "name": "Dara Eze",
+      "role": "Chief Marketing Officer",
+      "stage": "scale-co",
+      "department": "Marketing",
+      "path": "scale-co/marketing/cmo"
+    },
+    {
+      "id": "vp-sales",
+      "name": "Marcus Chen",
+      "role": "VP Sales",
+      "stage": "scale-co",
+      "department": "Revenue",
+      "path": "scale-co/revenue/vp-sales"
+    },
+    {
+      "id": "cfo",
+      "name": "Sarah Kellerman",
+      "role": "Chief Financial Officer",
+      "stage": "scale-co",
+      "department": "Operations",
+      "path": "scale-co/operations/cfo"
+    },
+    {
+      "id": "vp-engineering",
+      "name": "Dana Reeves",
+      "role": "VP Engineering",
+      "stage": "scale-co",
+      "department": "Engineering",
+      "path": "scale-co/engineering/vp-engineering"
+    }
+  ]
+}
